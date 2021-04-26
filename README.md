@@ -3,7 +3,7 @@
 Simple iOS app , to begin development journey 
 
 ## Application UI 
-<img src="screenshots/one.png" alt="icon" height="600" width="400" />
+<img src="screenshots/one.png" alt="icon" />
 <br />
 
 This is just a simple app made during learning iOS development
