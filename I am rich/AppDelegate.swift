@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  I am rich
-//
-//  Created by Avijeet Pandey on 26/04/21.
-//
-
 import UIKit
 
 @main
